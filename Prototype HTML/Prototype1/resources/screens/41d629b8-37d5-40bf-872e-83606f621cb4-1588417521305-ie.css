@@ -1,0 +1,84 @@
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Bottom_Nave {
+  border-collapse: separate;
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Cell_1 > .valign {
+  vertical-align: top;
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Image_36 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Label_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Cell_3 > .valign {
+  vertical-align: top;
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Image_102 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Label_5 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Cell_5 > .valign {
+  vertical-align: top;
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Label_7 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Cell_7 > .valign {
+  vertical-align: top;
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Image_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Label_9 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Text_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-Text_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 #s-raised_Button {
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 2px 2px 2px 2px;
+  padding-top: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  height: 34px;
+  width: 105px;
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-41d629b8-37d5-40bf-872e-83606f621cb4 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
